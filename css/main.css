@@ -79,7 +79,7 @@ body {
     radial-gradient(
       ellipse at bottom,
       var(--dark-color),
-      rgba(255, 174, 145, 0.2)
+      rgba(255, 233, 145, 0.708)
     ),
     repeating-linear-gradient(
       220deg,
